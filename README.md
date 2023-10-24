@@ -2,6 +2,7 @@
 opengl aimbot for return to castle wolfenstein (rtcw) 2003
 
 USDT
+
 	BEP 20: 0xb6bfe3500d48623bb73a3aea2da7b5063337a2d4
 
 	TRC20: TTiQSZjmFKMCDc939Big8xBZLo2Ur2K7jy
