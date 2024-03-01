@@ -6,11 +6,3 @@ USDT
 
 	ERC20 : 0x82f455cb6d55f2ea79fde7c586c073f104805cf3
 
-BNB 
-
-       bnb10e5u8eue9yfgat2hz6pe3sjsna8rmtza64ufh2
-
-BTC 
-
-      3Q9HqbuLNiafTVo5RtieDMyTmkts1Rw8EQ
-
